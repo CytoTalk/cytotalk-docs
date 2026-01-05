@@ -14,6 +14,12 @@ in single-cell biology.
 
 ---
 
+## Features
+- open cellxgene h5ad directly
+- DEGs
+- Abundance exploration
+- Plotting cells and genes
+
 ## Support Note
 
 **CytoTalk Explorer · Lite is a self-supported research tool.**
