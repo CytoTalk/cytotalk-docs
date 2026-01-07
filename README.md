@@ -19,4 +19,4 @@ It does not include dedicated customer support.
 Users are encouraged to consult the documentation and example workflows
 available on our website.
 
-👉 https://www.cytotalk.com
+https://www.cytotalk.com
