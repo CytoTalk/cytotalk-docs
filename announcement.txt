@@ -1,6 +1,2 @@
-SHOW: true
-TITLE: Announcement
-COLOR: red
-TEXT: CytoTalk Explorer Pro is now available with advanced features and short walkthrough videos.
-LINK: https://www.cytotalk.com/pro
-LINK_TEXT: Learn more
+CytoTalk Explorer Pro is now available with advanced features and short walkthrough videos.
+Learn more: https://www.cytotalk.com/pro
