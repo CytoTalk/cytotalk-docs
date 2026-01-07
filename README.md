@@ -19,4 +19,3 @@ Users are encouraged to consult the documentation and example workflows
 available on our website.
 
 👉 https://www.cytotalk.com
-
