@@ -1,6 +1,7 @@
 ## CytoTalk Explorer · Lite
 
-CytoTalk Explorer · Lite runs entirely locally. No user data is logged or transmitted. The app may fetch public announcement and documentation text at startup from: https://github.com/CytoTalk/cytotalk-docs
+CytoTalk Explorer · Lite runs entirely locally. No user data is logged or transmitted. The app may fetch public announcement and documentation text at startup from:
+https://github.com/CytoTalk/cytotalk-docs
 
 ---
 
