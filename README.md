@@ -1,16 +1,6 @@
-## CytoTalk
-
-CytoTalk focuses on enabling single-cell and spatial omics research
-through software development, computational analysis, consultation,
-training, and independent research.
-
----
-
 ## CytoTalk Explorer · Lite
 
-CytoTalk Explorer · Lite is part of an expanding ecosystem of tools designed
-to support data exploration, method development, and hypothesis generation
-in single-cell biology.
+CytoTalk Explorer · Lite runs entirely locally. No user data is logged or transmitted. The app may fetch public announcement and documentation text at startup from: https://github.com/CytoTalk/cytotalk-docs
 
 ---
 
